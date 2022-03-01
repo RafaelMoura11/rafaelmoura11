@@ -4,7 +4,7 @@
 
 
 
-##  Sobre mim
+##  Sobre mim:
 Eu sou desenvolvedor front-end em React e estou no meio da jornada em back-end e logo mais me tornarei um desenvolvedor full-stack!
 
 Estou atualmente estudando a ferramenta NodeJS para criação de APIs.
@@ -14,7 +14,7 @@ Estou atualmente estudando a ferramenta NodeJS para criação de APIs.
 
  - [Jogo de Trivia](https://the-trivia-game.vercel.app/)
  - [App de Receitas](https://recipe-app-ecru.vercel.app/)
-
+ - [Meu Portfólio](https://portifolio-rafaelmoura11.vercel.app/projects)
 
 ## 🛠 Habilidades:
 
