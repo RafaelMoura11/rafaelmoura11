@@ -9,7 +9,7 @@ My career at Programming started in the middle of the last year
 * 🌍  I'm based in Garanhuns, PE
 * 🖥️  See my portfolio at [this link](http://portfolio-rafael-moura.vercel.app/)
 * ✉️  You can contact me at [rafaelmoura7033@gmail.com](mailto:rafaelmoura7033@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Django
 
 ### Skills
 
