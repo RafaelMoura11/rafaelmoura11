@@ -9,7 +9,7 @@ My career at Programming started in the middle of the last year
 * 🌍  I'm based in Garanhuns, PE
 * 🖥️  See my portfolio at [this link](http://portfolio-rafael-moura.vercel.app/)
 * ✉️  You can contact me at [rafaelmoura7033@gmail.com](mailto:rafaelmoura7033@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm learning Java
 
 ### Skills
 
@@ -25,6 +25,8 @@ My career at Programming started in the middle of the last year
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django.svg" width="36" height="36" alt="Django" /></a>
   
 </p>
 
