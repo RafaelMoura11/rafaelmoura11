@@ -68,27 +68,12 @@ Atualmente trabalho com desenvolvimento de software voltado para soluções empr
 ---
 
 # 🌐 Redes
-
 <p align="left">
-
-<a href="https://github.com/RafaelMoura11" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" height="32"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rafael-rmoura" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32"/>
-</a>
-
+  <a href="https://www.github.com/RafaelMoura11" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-rmoura" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
 </p>
 
----
-
-# 📊 Estatísticas do GitHub
-
-<a href="http://www.github.com/RafaelMoura11">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelMoura11&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/RafaelMoura11">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMoura11&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" />
-</a>
